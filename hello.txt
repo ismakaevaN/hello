@@ -1,1 +1,2 @@
 New str
+Other str
